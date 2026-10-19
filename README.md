@@ -1,8 +1,8 @@
 # ds-sandbox
 
-Изолированный стенд для запуска [`ds`](https://github.com/A1eksMa/ds) +
-[`ds-loader`](https://github.com/A1eksMa/ds-loader) +
-[`ds-webui`](https://github.com/A1eksMa/ds-webui) в связке — чтобы разобраться,
+Изолированный стенд для запуска [`ds`](https://github.com/DS-Pipeline/ds) +
+[`ds-loader`](https://github.com/DS-Pipeline/ds-loader) +
+[`ds-webui`](https://github.com/DS-Pipeline/ds-webui) в связке — чтобы разобраться,
 как устроен поток «источник → загрузчик → ядро → вьюшка», не трогая рабочие данные.
 
 Что даёт:
